@@ -1,6 +1,6 @@
 Hi! I'm Chelsea Pae
 ============================
-Connect with me on <a href="https://www.linkedin.com/in/chelseapae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15" /></a></p>
+<a href="https://www.linkedin.com/in/chelseapae" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 ### Languages & Tools 
 <p align="left">
